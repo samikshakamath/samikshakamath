@@ -59,11 +59,4 @@ Here are some cool things I've built or am working on:
 
 - 🔧 [Inventory Optimization Model](#) – Reduced holding costs by applying EOQ and safety stock analysis using Python  
 - 📊 [Supply Chain KPI Dashboard](#) – Built with Power BI to visualize lead times, stockouts, and demand patterns  
-- 🌐 [Operations Analytics Case Study](#) – Analyzed production bottlenecks using real-world-style datasets
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio](https://yourportfolio.com) 
-- Email: `kamathsamiksha001@gmail.com'
-
+- 🌐 [Operations Analytics Case Study](#) – Analyzed production bottlenecks using real-world-style dataset
