@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 
 - 🎓 Engineer turned Analyst — I hold a degree in **Electronics and Communication Engineering (ECE)**  
-- 💼 Currently focused on **Business Analytics**, with a strong passion for data-driven decision-making  
+- 💼 Currently pursuing my Masters in **Business Analytics**, with a strong passion for data-driven decision-making  
 - 🏭 Specializing in **Supply Chain** and **Operations Analytics**  
 - 📈 Keen on transforming complex data into actionable business insights
 ## 🛠️ Technologies & Tools
