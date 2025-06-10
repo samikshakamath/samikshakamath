@@ -53,10 +53,3 @@ Welcome to my GitHub profile!
 - KPI Definition and Monitoring for Logistics, Procurement, and Fulfillment  
 - Operational Process Mapping, Bottleneck Analysis, and Efficiency Metrics  
 
-## 📌 Projects
-
-Here are some cool things I've built or am working on:
-
-- 🔧 [Inventory Optimization Model](#) – Reduced holding costs by applying EOQ and safety stock analysis using Python  
-- 📊 [Supply Chain KPI Dashboard](#) – Built with Power BI to visualize lead times, stockouts, and demand patterns  
-- 🌐 [Operations Analytics Case Study](#) – Analyzed production bottlenecks using real-world-style dataset
