@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 - 💼 Currently pursuing my Masters in **Business Analytics**, with a strong passion for data-driven decision-making  
 - 🏭 Specializing in **Supply Chain** and **Operations Analytics**  
 - 📈 Keen on transforming complex data into actionable business insights
-## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
 
 ### 🐍 Programming & Libraries
 
@@ -25,8 +25,8 @@ Welcome to my GitHub profile!
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-
 
 ### 🛠️ Other Tools
 
@@ -34,6 +34,8 @@ Welcome to my GitHub profile!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/-Microsoft%20Visio-3955A3?style=flat&logo=microsoft&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### 🧠 Statistical & Analytical Skills
 
@@ -43,7 +45,6 @@ Welcome to my GitHub profile!
 - Time Series Forecasting for Operational and Financial Planning  
 - Statistical Modeling of Uncertainty through Probability Distributions and Sampling Techniques  
 
-
 ### ⚙️ Business Domain Skills
 
 - Inventory Management and Optimization (EOQ, Safety Stock, Reorder Points)  
@@ -52,4 +53,3 @@ Welcome to my GitHub profile!
 - Capacity Planning and Production Scheduling using Data-Driven Methods  
 - KPI Definition and Monitoring for Logistics, Procurement, and Fulfillment  
 - Operational Process Mapping, Bottleneck Analysis, and Efficiency Metrics  
-
