@@ -1,53 +1,141 @@
 # Hi there, I'm Samiksha 👋
 
-Welcome to my GitHub profile!
+Master’s graduate in Business Analytics with a background in Electronics and Communication Engineering (ECE), currently focused on Generative AI, AI Engineering, Cloud Technologies, and Intelligent Analytics Systems.
 
-## 🚀 About Me
+I am interested in building scalable AI-driven applications that combine Large Language Models (LLMs), cloud-native architectures, and data-driven decision-making to solve real-world business problems.
 
-- 🎓 Engineer turned Analyst — I hold a degree in **Electronics and Communication Engineering (ECE)**  
-- 💼 Currently graduated with a Masters in **Business Analytics**, with a strong passion for data-driven decision-making  
-- 🏭 Specializing in **Supply Chain** and **Operations Analytics**  
-- 📈 Keen on transforming complex data into actionable business insights
+---
 
-## 🛠️ Technologies & Tools
+## Areas of Interest
 
-### 🐍 Programming & Libraries
+- Generative AI & AI Engineering
+- Cloud-Based AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Intelligent Document Processing
+- Data Analytics & Business Intelligence
+- Supply Chain & Operations Analytics
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F50?style=flat)
+---
 
-### 📊 Data Analysis & Visualization
+# Technical Skills
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Qlik](https://img.shields.io/badge/-Qlik-009845?style=flat&logo=qlik&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+## Programming & Development
 
-### 🛠️ Other Tools
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Microsoft Visio](https://img.shields.io/badge/-Microsoft%20Visio-3955A3?style=flat&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- Python
+- SQL
+- API Integration
+- JSON Handling
+- Git & GitHub
 
-### 🧠 Statistical & Analytical Skills
+### Libraries & Frameworks
+- Pandas
+- NumPy
+- Streamlit
+- PyPDF2
+- Matplotlib
+- Seaborn
 
-- Application of Descriptive and Inferential Statistics to Business Contexts  
-- Design and Execution of Hypothesis Tests, including Controlled A/B Experiments  
-- Development of Predictive Models using Linear, Logistic, and Multivariate Regression  
-- Time Series Forecasting for Operational and Financial Planning  
-- Statistical Modeling of Uncertainty through Probability Distributions and Sampling Techniques  
+---
 
-### ⚙️ Business Domain Skills
+## Generative AI & AI Engineering
 
-- Inventory Management and Optimization (EOQ, Safety Stock, Reorder Points)  
-- Supply Chain Performance Analysis (OTIF, Fill Rate, Lead Time Variability)  
-- Demand Forecasting using Historical Sales, Seasonality, and External Drivers  
-- Capacity Planning and Production Scheduling using Data-Driven Methods  
-- KPI Definition and Monitoring for Logistics, Procurement, and Fulfillment  
-- Operational Process Mapping, Bottleneck Analysis, and Efficiency Metrics  
+- Large Language Model (LLM) Applications
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Workflow Design
+- Semantic Search & Embeddings
+- AI-Powered Document Summarization
+- Event-Driven AI Pipelines
+- Hierarchical Summarization
+- LLM API Integration
+- Cloud-Based AI Deployment
+
+---
+
+## Cloud & Infrastructure
+
+### AWS Services
+- AWS Lambda
+- Amazon S3
+- Amazon Bedrock
+- AWS IAM
+- CloudWatch Logs
+
+### Cloud Concepts
+- Serverless Architectures
+- Event-Driven Systems
+- Cloud Deployment & Monitoring
+- AI Workflow Orchestration
+
+---
+
+## Data Analytics & Business Intelligence
+
+### Analytics & Statistical Methods
+- Exploratory Data Analysis (EDA)
+- Predictive Analytics
+- Statistical Modeling
+- Hypothesis Testing
+- Regression Analysis
+- Time Series Forecasting
+- A/B Testing
+- KPI Development & Reporting
+
+### Visualization & BI Tools
+- Power BI
+- Tableau
+- Excel
+- Google Sheets
+
+---
+
+## Supply Chain & Operations Analytics
+
+- Inventory Optimization
+- Demand Forecasting
+- Capacity Planning
+- Production Scheduling
+- Logistics & Fulfillment Analytics
+- Operational KPI Analysis
+- Process Improvement & Bottleneck Analysis
+
+---
+
+# Tools & Platforms
+
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Jira
+- Microsoft Visio
+
+---
+
+# Current Focus
+
+Currently focused on:
+- Building cloud-native Generative AI applications
+- Learning advanced RAG architectures
+- Designing scalable AI workflows
+- Developing AI-powered analytics systems
+- Exploring LLMOps and AI deployment practices
+
+---
+
+# Featured Project Areas
+
+- AI PDF Summarization Systems
+- Intelligent Document Processing Pipelines
+- Cloud-Based Generative AI Applications
+- AI Analytics & Decision Support Systems
+
+---
+
+# Currently Learning
+
+- Vector Databases
+- Advanced RAG Pipelines
+- FastAPI
+- Multi-Agent AI Systems
+- LLMOps & AI Monitoring
+  
